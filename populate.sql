@@ -1,5 +1,6 @@
-USE [EvaluacionEj1]
 
+USE [EvaluacionEj1]
+SET IDENTITY_INSERT [dbo].[Users] ON 
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (1,N'Marisol',N'Echeverria',N'MarisolEcheverria@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (2,N'Fermin',N'Galan',N'FerminGalan@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (3,N'Aziz',N'Pinto',N'AzizPinto@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
@@ -36,3 +37,4 @@ INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (3
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (34,N'Michael',N'Almagro',N'MichaelAlmagro@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (35,N'Gemma',N'Puerto',N'GemmaPuerto@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
 INSERT [dbo].[Users] ([Id], [nombre], [apellido], [email], [password]) VALUES (36,N'Marcelino',N'Heredia',N'MarcelinoHeredia@gmail.com',N'2y12ZMIHnn4jEJbtzel3b9T4eIKvViXOt115BQ1hV7CXhtcbr')
+SET IDENTITY_INSERT [dbo].[Users] OFF
