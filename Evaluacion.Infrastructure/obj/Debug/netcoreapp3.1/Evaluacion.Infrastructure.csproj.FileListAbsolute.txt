@@ -1,0 +1,16 @@
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Infrastructure.deps.json
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Infrastructure.dll
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Infrastructure.pdb
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Core.dll
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Core.pdb
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.csproj.AssemblyReference.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.AssemblyInfoInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.AssemblyInfo.cs
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.csproj.CopyComplete
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.dll
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.pdb
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Infrastructure.runtimeconfig.json
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\bin\Debug\netcoreapp3.1\Evaluacion.Infrastructure.runtimeconfig.dev.json
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Infrastructure\obj\Debug\netcoreapp3.1\Evaluacion.Infrastructure.genruntimeconfig.cache

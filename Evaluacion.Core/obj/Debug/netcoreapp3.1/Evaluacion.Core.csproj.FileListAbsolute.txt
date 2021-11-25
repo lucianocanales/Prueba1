@@ -1,0 +1,10 @@
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\bin\Debug\netcoreapp3.1\Evaluacion.Core.deps.json
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\bin\Debug\netcoreapp3.1\Evaluacion.Core.dll
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\bin\Debug\netcoreapp3.1\Evaluacion.Core.pdb
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.csproj.AssemblyReference.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.AssemblyInfoInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.AssemblyInfo.cs
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.dll
+D:\Usuarios\Lucho\Desktop\.net\Prueba1\Evaluacion.Core\obj\Debug\netcoreapp3.1\Evaluacion.Core.pdb
