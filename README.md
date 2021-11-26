@@ -5,7 +5,7 @@
 Para hacer la puesta en marcha debe dev:
 
 1. Clonar el repositorio
-2. Abra el projecto con visual studio comunity dirijase a view luego a SQL Server Object Explorer 
+2. Abra el proyecto con visual studio community diríjase a view luego a SQL Server Object Explorer 
 3. Expanda la solapa que dice localdb, luego la que dice Databases de segundo clic y cree un base de datos con el nombre EvaluacionEj1Context
 4. Luego de segundo clic sobre la solapa table y seleccione new query pegue el contenido del archivo dbo.Users.sql y click en Execute o (Ctrl + Shift + E)
 5. borre el contenido y luego copie el contenido del archivo populate.sql y de nuevo click en Execute o (Ctrl + Shift + E)
@@ -56,7 +56,7 @@ Utilizado para devolver lo que se encuentra [aqui](https://api.mercadolibre.com/
           }, ...
      }
 
-####  Si se le pasa BR o CO en vez de AR debuelve:
+####  Si se le pasa BR o CO en vez de AR devuelve:
 
     {
         "type": "https://tools.ietf.org/html/rfc7235#section-3.1",
@@ -65,7 +65,7 @@ Utilizado para devolver lo que se encuentra [aqui](https://api.mercadolibre.com/
         "traceId": "|5093324a-4d65848d2a0facc3.",
     }
 
-## Busqueda
+## Búsqueda
 
 -   Path: domain/api/Busqueda/{'producto'}
 -   Acciones Permitidas: GET
@@ -106,7 +106,7 @@ Utilizado para devolver de forma reducida lo que se encuentra en `https://api.me
 -   Acciones Permitidas: GET
 -   Formato de respuest: JSON
 
-Debuelve una lista con todos los usuarios y sus respectivos datos
+Devuelve una lista con todos los usuarios y sus respectivos datos
 
 ### Formato de json devuelto:
 
@@ -134,7 +134,7 @@ Debuelve una lista con todos los usuarios y sus respectivos datos
 -   Acciones Permitidas: GET
 -   Formato de respuest: JSON
 
-Debuelve un unico usuario y sus respectivos datos
+Devuelve un único usuario y sus respectivos datos
 
 ### Formato de json devuelto:
 
@@ -209,3 +209,13 @@ Se le pasa ide del usuario para eliminar un usuario
 ### Formato de json devuelto:
 
     true
+
+## Cosas que le faltan 
+
+Aqui pondre las cosas que se que le faltan a la API pero por cuestiones de tiempo no se llegaron ahacer
+
+- El hash de la contraseña de los usuarios al crear un usuario nuevo.
+- Un sistema de logueo a travez de JWT o sistema similar.
+- Un sistema de manejos de errores mas robusto.
+- Una forma de paginacion.
+- hacerle un test unitario.
